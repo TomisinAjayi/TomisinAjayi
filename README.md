@@ -1,9 +1,6 @@
 
 ### Hi there 👋
 
-<!--
-**TomisinAjayi/TomisinAjayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: {Twitter}(https://twitter.com/tomiajayi_) and on {Gmail}(thomieajayi@gmail.com).
 - 😄 Pronouns: She.
 - ⚡ Fun fact: I love video games.
--->
+
