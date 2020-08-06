@@ -6,4 +6,4 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Twitter](https://twitter.com/tomiajayi_) and on [Gmail](Mailto:thomieajayi@gmail.com).
 - 😄 Pronoun: She.
-- ⚡ Fun fact: I love video games.
+- ⚡ Fun fact: I love video games, currently a Master in Battle Royal (COD). I also enjoy Rick & Morty.
