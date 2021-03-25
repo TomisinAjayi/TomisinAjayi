@@ -1,9 +1,3 @@
 
-### Hi there 👋
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/48753117/112538407-1fab1b80-8db0-11eb-8e6d-4a091a59722d.gif)
 
-- 🌱 I’m currently learning C.
-- 🙂 A student at Aptech.
-- 👯 I’m looking to collaborate on building websites as a Front End Developer.
-- 💬 Ask me about anything.
-- 📫 How to reach me: [Twitter](https://twitter.com/tomiajayi_) and on [Gmail](Mailto:thomieajayi@gmail.com).
-- ⚡ Fun fact: I love video games. I also enjoy Rick & Morty.
