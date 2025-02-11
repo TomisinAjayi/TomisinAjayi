@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am currently building tix3.0.
+- 🎟️ 👷🏽‍♀️ Currently building and maintaining tix.africa.
 - 🔭 I build mobile and web applications.
 - 🌱 I revived a POS application built for Android devices.
 - 👯 I love beta-testing, especially for games. 
